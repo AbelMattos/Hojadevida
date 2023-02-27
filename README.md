@@ -1,8 +1,8 @@
 # Hojadevida
 Mi hoja de vida,
-**Abel Mattos
+**Abel Mattos**
 
-| Nombre | Abel Martinez |
+| Nombre | Abel Martínez |
 |---|---|
 | T.I. | 1044611454 |
 | Celular | 3243316646 |
