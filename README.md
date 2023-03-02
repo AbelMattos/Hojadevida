@@ -8,7 +8,7 @@ Mi hoja de vida,
 |---|---|
 | T.I. | 1044611454 |
 | Celular | 3243316646 |
-| Correo | martinezmattosabeljesus5@gmail.com |
+| Correo electronico|martinezmattosabeljesus5@gmail.com|
 
 ## Estudio
 
